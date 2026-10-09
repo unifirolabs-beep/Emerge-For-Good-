@@ -15,7 +15,7 @@ const caveat = Caveat({
 export const metadata: Metadata = {
   title: {
     default: "EMERGE FOR GOOD | Innovation Challenge 2026",
-    template: "%s | EMERGE FOR GOOD",
+    template: "%s | EMERGE FOR GOOD | Innovation Challenge 2026",
   },
   description: "Got an idea that could fix something real? Bring it. Seven domains, Rs 1,75,000 in prizes, and a live finale at Pondicherry University. A state-level science expo for young innovators.",
   keywords: [
